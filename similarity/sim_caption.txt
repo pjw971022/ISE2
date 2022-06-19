@@ -1,0 +1,11 @@
+## train
+
+
+
+
+## validation
+the least similar example: ['The animal food tray and cage is empty.', 'some kind of cage that is next to a tree', 'a couple of frisbees are stuck in a small tower', 'A view of a piece of art near a tree.', 'A Frisbee golf net in a park with several Frisbee in it.']
+0.182616
+
+the most similar example: ['Someone using a cell phone to take a picture of a baby.', 'someone taking a picture of a baby using a cell phone.', 'A person taking a picture of a baby on a cell phone.', 'A person uses their cellphone to take a picture of a baby', 'a person taking a photo of a baby with their cell phone ']
+0.969442
